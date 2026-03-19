@@ -39,7 +39,7 @@ body {
 }
 
 .secao {
-  margin-top: 30px;
+  margin-top: 22px;
   margin-left: 10px;
   margin-bottom: 35px;
 }
@@ -111,16 +111,15 @@ h2 {
   height: auto;
 }
 
-
-
 p {
   font-size: 18px;
   line-height: 1.4;
   max-width: 1200px;
 }
+
 .contato-pagina {
   width: 1200px;
-  margin-left: 35px;
+  margin: 0 auto;
 }
 
 .contato-bloco {
