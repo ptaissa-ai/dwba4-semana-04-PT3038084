@@ -1,0 +1,142 @@
+body {
+  margin: 0;
+  background-color: #f2f2f2;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.topo {
+  width: 100%;
+  padding-top: 20px;
+}
+
+.menu-superior {
+  text-align: right;
+  padding-right: 35px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.menu-superior a {
+  color: #6b4aa5;
+  text-decoration: underline;
+}
+
+.pagina {
+  width: 96%;
+  margin: 0 auto;
+}
+
+.secao-logo {
+  margin-top: 45px;
+  margin-left: 10px;
+}
+
+.logo {
+  width: 430px;
+  height: auto;
+  display: block;
+}
+
+.secao {
+  margin-top: 30px;
+  margin-left: 10px;
+  margin-bottom: 35px;
+}
+
+h1 {
+  font-size: 28px;
+  margin: 0 0 14px 0;
+}
+
+h2 {
+  font-size: 22px;
+  margin: 0 0 14px 0;
+}
+
+.cursos ul {
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+.cursos li {
+  margin-bottom: 6px;
+}
+
+.img-evento {
+  width: 760px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: 35px;
+}
+
+.publicado {
+  font-size: 13px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.bloco-video {
+  margin-top: 15px;
+}
+
+.bloco-video iframe {
+  width: 560px;
+  height: 315px;
+  border: none;
+  display: block;
+}
+
+.link-video {
+  margin-top: 10px;
+  font-size: 18px;
+}
+
+.rodape-icones {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  margin-top: 25px;
+  margin-bottom: 40px;
+}
+
+.icone-topo {
+  width: 42px;
+  height: auto;
+}
+
+.icone-facebook {
+  width: 42px;
+  height: auto;
+}
+
+
+
+p {
+  font-size: 18px;
+  line-height: 1.4;
+  max-width: 1200px;
+}
+.contato-pagina {
+  width: 1200px;
+  margin-left: 35px;
+}
+
+.contato-bloco {
+  width: 850px;
+}
+
+.contato-tabela {
+  width: 850px;
+  border-collapse: collapse;
+  background-color: white;
+}
+
+.contato-tabela th,
+.contato-tabela td {
+  border: 1px solid black;
+  padding: 10px;
+  text-align: left;
+  vertical-align: top;
+}
